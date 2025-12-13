@@ -1,0 +1,2 @@
+# photo_location_by_time
+写真の時間とGPXの時間を突合して、写真の位置を推定するプラグイン
