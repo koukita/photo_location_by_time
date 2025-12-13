@@ -1,0 +1,14 @@
+[general]
+name=写真の位置をGPXの時間で推定
+qgisMinimumVersion=3.40
+description=A plugin that estimates the location of a photo by matching the Exif information of the photo with the GPX time.
+about=写真のExif情報とGPXの時間を突合させて、写真の位置を推定するプラグイン
+version=0.9.0
+author=koichi kita
+email=qgisshitumon@gmail.com
+
+homepage=https://github.com/koukita/photo_location_by_time
+tracker=https://github.com/koukita/photo_location_by_time/issues
+repository=https://github.com/koukita/photo_location_by_time
+tags=python, processing, photo, GPX, GNSS
+icon=icon.png

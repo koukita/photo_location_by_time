@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="Geographica - http://geographica.biz/" appVersion="Ver 2.1.33:356" device="google tegu" android="16" carrier="NTT DOCOMO">
+<trk>
+<name>GPSテスト</name>
+<trkseg>
+<trkpt lat="35.889085" lon="139.454420">
+<ele>32.000000</ele>
+<time>2025-12-10T00:51:39Z</time>
+<speed>0.092442</speed>
+<trueHeading>0.000000</trueHeading>
+<magneticHeading>0.000000</magneticHeading>
+<gpsHeading>0.000000</gpsHeading>
+<haccuracy>24.489000</haccuracy>
+<vaccuracy>24.489000</vaccuracy>
+<internetconnect>2</internetconnect>
+</trkpt>
+<trkpt lat="35.889079" lon="139.454432">
+<ele>32.000000</ele>
+<time>2025-12-10T00:51:40Z</time>
+<speed>0.085297</speed>
+<trueHeading>0.000000</trueHeading>
+<magneticHeading>0.000000</magneticHeading>
+<gpsHeading>0.000000</gpsHeading>
+<haccuracy>24.257000</haccuracy>
+<vaccuracy>24.257000</vaccuracy>
+<internetconnect>2</internetconnect>
+</trkpt>
+<trkpt lat="35.888848" lon="139.454095">
+<ele>32.000000</ele>
+<time>2025-12-10T00:52:26Z</time>
+<speed>1.386887</speed>
+<trueHeading>0.000000</trueHeading>
+<magneticHeading>0.000000</magneticHeading>
+<gpsHeading>229.811020</gpsHeading>
+<haccuracy>8.314000</haccuracy>
+<vaccuracy>8.314000</vaccuracy>
+<internetconnect>2</internetconnect>
+</trkpt>
+<trkpt lat="35.888289" lon="139.454446">
+<ele>33.000000</ele>
+<time>2025-12-10T00:53:16Z</time>
+<speed>1.193361</speed>
+<trueHeading>0.000000</trueHeading>
+<magneticHeading>0.000000</magneticHeading>
+<gpsHeading>153.044739</gpsHeading>
+<haccuracy>6.986000</haccuracy>
+<vaccuracy>6.986000</vaccuracy>
+<internetconnect>2</internetconnect>
+</trkpt>
+<trkpt lat="35.887857" lon="139.454955">
+<ele>33.000000</ele>
+<time>2025-12-10T00:54:05Z</time>
+<speed>1.522521</speed>
+<trueHeading>0.000000</trueHeading>
+<magneticHeading>0.000000</magneticHeading>
+<gpsHeading>136.297836</gpsHeading>
+<haccuracy>6.825000</haccuracy>
+<vaccuracy>6.825000</vaccuracy>
+<internetconnect>2</internetconnect>
+</trkpt>
+<trkpt lat="35.887395" lon="139.455138">
+<ele>33.000000</ele>
+<time>2025-12-10T00:54:52Z</time>
+<speed>1.545005</speed>
+<trueHeading>0.000000</trueHeading>
+<magneticHeading>0.000000</magneticHeading>
+<gpsHeading>162.285904</gpsHeading>
+<haccuracy>8.409000</haccuracy>
+<vaccuracy>8.409000</vaccuracy>
+<internetconnect>2</internetconnect>
+</trkpt>
+<trkpt lat="35.887251" lon="139.454555">
+<ele>34.000000</ele>
+<time>2025-12-10T00:55:43Z</time>
+<speed>1.290631</speed>
+<trueHeading>0.000000</trueHeading>
+<magneticHeading>0.000000</magneticHeading>
+<gpsHeading>253.122742</gpsHeading>
+<haccuracy>9.625000</haccuracy>
+<vaccuracy>9.625000</vaccuracy>
+<internetconnect>2</internetconnect>
+</trkpt>
+<trkpt lat="35.887754" lon="139.454387">
+<ele>34.000000</ele>
+<time>2025-12-10T00:56:33Z</time>
+<speed>1.301936</speed>
+<trueHeading>0.000000</trueHeading>
+<magneticHeading>0.000000</magneticHeading>
+<gpsHeading>344.844360</gpsHeading>
+<haccuracy>10.815000</haccuracy>
+<vaccuracy>10.815000</vaccuracy>
+<internetconnect>2</internetconnect>
+</trkpt>
+<trkpt lat="35.888193" lon="139.455021">
+<ele>32.000000</ele>
+<time>2025-12-10T00:57:23Z</time>
+<speed>1.467889</speed>
+<trueHeading>0.000000</trueHeading>
+<magneticHeading>0.000000</magneticHeading>
+<gpsHeading>49.482239</gpsHeading>
+<haccuracy>4.743000</haccuracy>
+<vaccuracy>4.743000</vaccuracy>
+<internetconnect>2</internetconnect>
+</trkpt>
+<trkpt lat="35.888660" lon="139.455026">
+<ele>31.000000</ele>
+<time>2025-12-10T00:58:13Z</time>
+<speed>1.408709</speed>
+<trueHeading>0.000000</trueHeading>
+<magneticHeading>0.000000</magneticHeading>
+<gpsHeading>0.546554</gpsHeading>
+<haccuracy>9.894000</haccuracy>
+<vaccuracy>9.894000</vaccuracy>
+<internetconnect>2</internetconnect>
+</trkpt>
+<trkpt lat="35.888975" lon="139.454449">
+<ele>32.000000</ele>
+<time>2025-12-10T00:59:02Z</time>
+<speed>1.332639</speed>
+<trueHeading>0.000000</trueHeading>
+<magneticHeading>0.000000</magneticHeading>
+<gpsHeading>303.991089</gpsHeading>
+<haccuracy>5.201000</haccuracy>
+<vaccuracy>5.201000</vaccuracy>
+<internetconnect>2</internetconnect>
+</trkpt>
+<trkpt lat="35.888885" lon="139.454245">
+<ele>32.000000</ele>
+<time>2025-12-10T00:59:19Z</time>
+<speed>1.154546</speed>
+<trueHeading>-999.000000</trueHeading>
+<magneticHeading>166.362762</magneticHeading>
+<gpsHeading>241.446396</gpsHeading>
+<haccuracy>4.737000</haccuracy>
+<vaccuracy>4.737000</vaccuracy>
+<internetconnect>2</internetconnect>
+</trkpt>
+</trkseg></trk>
+</gpx>
