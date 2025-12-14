@@ -1,5 +1,5 @@
 [general]
-name=写真の位置をGPXの時間で推定
+name=photo location by time:写真の位置をGPXの時間で推定
 qgisMinimumVersion=3.40
 description=A plugin that estimates the location of a photo by matching the Exif information of the photo with the GPX time.
 about=写真のExif情報とGPXの時間を突合させて、写真の位置を推定するプラグイン
