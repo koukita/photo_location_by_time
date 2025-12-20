@@ -1,6 +1,6 @@
 # photo_location_by_time
 写真の時間とGPXの時間を突合して、写真の位置を推定するプラグイン
-![result](https://github.com/fumikiri/SlidingModeControlMatlab/blob/master/GIF/lq_vs_smc_animation.gif?raw=true)
+https://github.com/koukita/photo_location_by_time/blob/main/image/Photo_GPX.gif
 
 # 必要なライブラリ
 このプラグインでは、画像処理を行うためのPythonライブラリ「Pillow」が必要です。
