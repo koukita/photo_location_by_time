@@ -1,6 +1,7 @@
 [general]
 name=photo location by time:写真の位置をGPXの時間で推定
 qgisMinimumVersion=3.40
+qgisMaximumVersion=4.99
 description=A plugin that estimates the location of a photo by matching the Exif information of the photo with the GPX time.
 about=写真のExif情報とGPX時刻を照合することで、写真の位置を推定するプラグイン。
 version=1.2.0
